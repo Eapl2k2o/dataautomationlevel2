@@ -15,8 +15,12 @@ Tasks
 Constraints
 
 ●	Months grouped by OrderDate, formatted Mon-YYYY.
+
 ●	Share % = Returning NetSales ÷ Total NetSales for that month, as a percentage.
+
 ●	Exclude any month with fewer than 5 orders (too little data to trust).
+
 ●	Chart x-axis must be chronological, not alphabetical.
+
 ●	Percentages rounded to 1 decimal place.
 
